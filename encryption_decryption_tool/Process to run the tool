@@ -1,0 +1,8 @@
+Firstly install a package of cryptography using following command:
+        pip install cryptography
+Now write :
+   python filename.py
+Then: 
+   Enter e or d (e for encryption and d for decryption)
+After that:
+   Provide the name of a test file, which you want encrypt or decrypt
